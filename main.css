@@ -1,3 +1,6 @@
+head{
+    
+}
 body{
     background-color: while;
 }
@@ -13,4 +16,14 @@ h3 {
         width: 500;
       }
       
+}
+h4{
+    a{
+        color: blue;
+    }
+}
+h5{
+    a{
+        color: blue;
+    }
 }

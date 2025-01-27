@@ -1,5 +1,5 @@
 #Menu ul{
-    background-color: #7FFFD4;
+    background-color: black;
     list-style-type: none ;
     text-align: center ;
    
@@ -35,6 +35,19 @@
 }
 #Menu ul li:hover .sub-Menu{
     display: block;
+}
+#sub-Menu-item:hover {
+    background-color: #f0f0f0;
+    color: #333;
+}
+#sub-Menu {
+    margin: 20px 0;
+}
+#sub-Menu {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+#sub-Menu {
+    border-radius: 15px;
 }
 h8{
         color: aqua;
